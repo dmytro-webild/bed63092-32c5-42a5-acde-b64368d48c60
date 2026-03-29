@@ -167,7 +167,7 @@ export default function LandingPage() {
           role: "Socialite",
           company: "Dallas Local",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-luxury-restaurant_23-2150598353.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-luxury-restaurant_23-2150598353.jpg?_wi=1",
         },
         {
           id: "2",
@@ -199,7 +199,7 @@ export default function LandingPage() {
           role: "Connoisseur",
           company: "Lifestyle Magazine",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-luxury-restaurant_23-2150598353.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-man-luxury-restaurant_23-2150598353.jpg?_wi=2",
         },
       ]}
       kpiItems={[
